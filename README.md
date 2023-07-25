@@ -1,5 +1,7 @@
-# Python Insights - Análise de Dados
+# Python Insights - Análise de Dados  ![image](https://i.gifer.com/origin/c1/c1509216eff853bf8fb246b72bb07987_w200.gif)
 ### Case - Cancelamento de Clientes
+
+
 
 Uma empresa com mais de 800 mil clientes recentemente percebeu que da sua base total de clientes, a maioria são clientes inativos, ou seja, que já cancelaram o serviço.
 
