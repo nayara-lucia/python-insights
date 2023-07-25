@@ -43,3 +43,15 @@ Foi possível identificar que clientes que ligam mais de 5 vezes para o call cen
 Foi possível identificar que quando um cliente atrasa mais de 20 dias ele cancela
 ![image](https://github.com/nayara-lucia/python-insights/assets/126920974/f6fa6625-bc67-4c3f-a998-5273846643d3)
 <hr>
+
+# Conclusão
+
+![image](https://static.wixstatic.com/media/1a1140_6078a0cb8c534e11960700ae86aa872b~mv2.gif)
+
+Concluimos que as principais medidas a serem tomadas devem ser:
+
+<ol> 
+<li> A retirada do plano mensal e atribuição de melhores benefícios aos outros planos, para que os clientes possam migrar para outras opções com mais confiança. </li> 
+<li>Maior atenção e suporte aos clientes que possuem alta frequência de ligações para o call center</li> 
+<li>Facilitar as opções de pagamento para que o cliente não atrase</li> 
+</ol>
