@@ -22,6 +22,7 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<em> Os códigos desse projeto estão disponivéis no arquivo "inicial.ipynb"
 <hr>
 
 Durante o desenvolvimento foi possível identificar 3 problemas que causam a perda de clientes 👇
