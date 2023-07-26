@@ -25,7 +25,7 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 <em> Os códigos desse projeto estão disponíveis no arquivo "inicial.ipynb"
 <hr>
 
-Durante o desenvolvimento foi possível identificar 3 problemas que causam a perda de clientes 👇
+Durante o desenvolvimento foi possível identificar 4 principais problemas que causam a perda de clientes 👇
 
 
 
@@ -45,6 +45,12 @@ Foi possível identificar que clientes que ligam mais de 5 vezes para o call cen
 
 Foi possível identificar que quando um cliente atrasa mais de 20 dias ele cancela
 ![image](https://github.com/nayara-lucia/python-insights/assets/126920974/f6fa6625-bc67-4c3f-a998-5273846643d3)
+
+
+<li> Clientes 50+ 👨‍🦳</li>
+
+![image](https://github.com/nayara-lucia/python-insights/assets/126920974/b47716dd-5d4d-4a67-b870-ba9c09f5a140)
+
 <hr>
 
 # Conclusão
@@ -57,4 +63,5 @@ Concluimos que as principais medidas a serem tomadas devem ser:
 <li> A retirada do plano mensal e atribuição de melhores benefícios aos outros planos, para que os clientes possam migrar para outras opções com mais confiança. </li> 
 <li>Maior atenção e suporte aos clientes que possuem alta frequência de ligações para o call center</li> 
 <li>Facilitar as opções de pagamento para que o cliente não atrase</li> 
+<li>Trazer mais opções de conteúdo para pessoas acima de 50+ anos</li>
 </ol>
